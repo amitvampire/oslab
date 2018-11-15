@@ -1,0 +1,5 @@
+banker.txt
+deadlockprev.txt
+lru.txt
+readerwriter.txt
+request.txt
